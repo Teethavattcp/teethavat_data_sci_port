@@ -10,10 +10,24 @@ This is my github profile including of my previous projects and relevant tasks I
 
 **Step 2:** Build LSTM RNN model with Exogeneous Data (MAPE: 18.884%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1lg2AJyZOjypWqPZS9s2pAIJ6gtUiEstE?usp=sharing)
 
-* **Compared result:**
+**Compared result:**
 
 > with LSTM without exogeneous data (MAPE: 21.882%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zPgGMfIdcmhy2iL0ihxQt6M9dvftewBz?usp=sharing)
 
 > with Naive Method (MAPE: 50.043 %) [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1M2D-IPBm5CVwQVscWA4b6fid70SRcdw_?usp=sharing)
+
+
+### Churn Prediction & Retention Strategies for Telecom Business
+
+**Code for main work (Best Model = XGBoost --> clustering --> association rule mining):** [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1qZGmhF9Jft5VHlxWHva9BXMTEdDejth2?usp=sharing)
+* f1-score: 72.657%, accuracy: 80.199%
+* Project Presentation Slide: 
+**Code for other prediction models:**
+| Prediction Model        | F1-score(macro)| Accuracy  | Open Notebook |
+| ----------------------- |:--------------:| :--------:| -------------:| 
+| 1) Logistics Regression | 54.852%        | 74.521%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)] |
+| 2) Decision Tree        | 71.359%        | 78.070%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)] |
+| 3) Random Forest        | 71.396%        | 79.631%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)] |
+| 4) K-Nearest Neighbors  | 67.478%        | 77.478%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)] |
 
 
