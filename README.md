@@ -4,7 +4,7 @@ This is my github profile including of my previous projects and relevant tasks I
 
 ## Relavant Projects:
 
-###PM 2.5 Forecasting with LSTM RNN
+### PM 2.5 Forecasting with LSTM RNN
 
 Step 1: Extract Data [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zLPFnpIX3Hk1bdTPUKAtQ0Z4AJTXpfpH?usp=sharing)
 
