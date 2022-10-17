@@ -27,7 +27,7 @@ This is my github profile including of my previous projects and relevant tasks I
 
 | Prediction Model        | F1-score(macro)| Accuracy  | Open Notebook                                                                                             |
 | ----------------------- |:--------------:| :--------:| ---------------------------------------------------------------------------------------------------------:| 
-| 1) Logistics Regression | 54.852%        | 74.521%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://drive.google.com/drive/folders/1C9ejDhV8m48mw3QIu4DSZwzrHXRrKxTm?usp=sharing) |
+| 1) Logistics Regression | 54.852%        | 74.521%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1seBXoAoBpdqaxq2Uwx12H3vSoIVT7QoR?usp=sharing) |
 | 2) Decision Tree        | 71.359%        | 78.070%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1UMKEKYmSaUGkXpbp27T1yDlqq4k8U1BS?usp=sharing) |
 | 3) Random Forest        | 71.396%        | 79.631%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1e81g6jMNympIRsciU6cwAARPy76IbitM?usp=sharing) |
 | 4) K-Nearest Neighbors  | 67.478%        | 77.478%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_data_sci_port/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1VUd6g-PQivLkMT8OwecmnyBJRzOui0D4?usp=sharing) |
