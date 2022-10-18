@@ -1,4 +1,4 @@
-# Teethavat's data science portfolio
+# Teethavat's portfolio
 
 This is my github profile including of my previous projects and relevant tasks I performed about data science
 
