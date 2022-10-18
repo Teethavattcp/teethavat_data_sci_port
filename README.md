@@ -13,6 +13,7 @@ This is my github profile including of my previous projects and tasks I performe
 > ### [Drilled down insights from the interactive dashboard](https://github.com/teethavattcp/teethavat_port_data/tree/main/Intern_Proj_DA/02_COVID_Interactive_Dashboard "Go to folder in Github")
 * Dashboard: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_img.gif "Open Dashboard")](https://github.com/teethavattcp/teethavat_port_data/blob/main/Intern_Proj_DA/02_COVID_Interactive_Dashboard/Intern_02_Interactive_Dashboard_final.png)
 * Report: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open PDF")](https://github.com/teethavattcp/teethavat_port_data/blob/main/Intern_Proj_DA/02_COVID_Interactive_Dashboard/Intern_02_report_interactive_dashboard.pdf)
+
 ## Relavant Projects:
 
 > ### [PM 2.5 Forecasting with LSTM RNN](https://github.com/teethavattcp/teethavat_port_data/tree/main/Projects/01_PM_2.5_Forecasting_with_LSTM_RNN "Go to folder in Github")
@@ -51,3 +52,43 @@ Report:
 
 Code: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_openfile.gif "Open File Path in Github")](https://github.com/teethavattcp/teethavat_port_data/tree/main/Projects/03_Interactive_Database_Website_System/Comp%20IT%20Final%20Project%20Code)
 
+## Enrolled courses:
+* Introduction to Data Mining
+* Artificial Intelligence for Engineers
+* Data Science and Data Engineering
+* Engineering Statistics I,II
+* Engineering Experimental Design (DOE)
+
+## Tasks from enrolled courses:
+> ### Basic Statistics
+
+> ### Traditional ML
+Linear Regression: 
+* House Price Prediction (Multiple Linear Regression) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "House Price Prediction (Multiple Linear Regression)")](https://colab.research.google.com/drive/1s3SiOHarZ7IFSQk8Y_GXAKgJfyWoooHl) 
+* Wine Quality Prediction [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Wine Quality Prediction")](https://colab.research.google.com/drive/1YiczsOJBonyaK2tpb6ybjhXBMHOWkzTB#scrollTo=mg2ZryWkGsLd)
+* Medical insurance cost prediction: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Medical insurance cost prediction")](https://drive.google.com/file/d/1G3HBqX-PoIpRgbV1AX3SIuBRuQvnsG_o/view?usp=sharing) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1eBL-pa06QKyMHjWB0KYM59qHe431F-Me/view?usp=sharing)
+
+Logistic Regression: 
+* Titanic Survivor Classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Titanic Survivor Classification")](https://colab.research.google.com/drive/1h1bDf7HBysBoQSB7CCa-8CY7t9gC72yR#scrollTo=01BWtH7hIfJc) 
+* Age Vs Salary Classification either obove 50k or less 50k through logistic regression classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Age Vs Salary Classification either obove 50k or less 50k through logistic regression classification")](https://colab.research.google.com/drive/1n3M5Wp2PQ4RM22QrudPxJ5afgiXzuO80)
+
+Tree-based Algorithm: 
+* Tree-based Classification Model (Decision Tree, Randomforest, CatBOOST): Code ---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Tree-based Model: DT, RF, CatBOOST")](https://colab.research.google.com/drive/19DeXZbOHxNpwBhCQpXPzDCZ2smFrWQ_Q#scrollTo=EkS1kpKNFUet)  Report ---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open performance summary report")](https://drive.google.com/drive/folders/1uLrittAvh9GmRMqkcfWA5uBEAPqGwndZ)
+* Job Attrition Classification: Code--> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Job Attrition Classification")](https://drive.google.com/file/d/1q2M7m7Ucu1hLS4azDyh_15LQqfQEAL97/view?usp=sharing)  Report--> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1HLrDeCIuvTaEg5EqWmS6Aan8NB4KHEHd/view?usp=sharing)
+
+K Nearest Neighborhood:
+* Cancer Class Prediction: Code--> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Cancer Class Prediction")](https://drive.google.com/file/d/1hJhe_oMPlrjWxiM6pxSKMCW_g1Ist7fc/view?usp=sharing)  Report--> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/drive/folders/1a-rRNaV64jV7ZuWbUd5bBeBb0tkzwKKz)
+
+Bayesian Learning:
+* Naive Bayes Text Classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Naive Bayes Text Classification")](https://colab.research.google.com/drive/1j2TXtFzttokVdcvYkYYJPpx54XOcbJ0s#scrollTo=CZZ8olMIJh5P)
+
+Generic Algorithm (GA): 
+* GA linear regression [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "GA linear regression")](https://colab.research.google.com/drive/1eqe8LAITgb4SuugKlcUwGNzietQR9QBi#scrollTo=Kun4KzlzzO76) 
+* GA 2nd degree regression [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "GA 2nddegree regression")](https://colab.research.google.com/drive/1z4TpTbC-hpOq1bPt8uvyW_Hiz1symn2r)
+
+Artificial Neural Network (Multilayer Perceptron, MLP): 
+* House Price Prediction with ANN: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "GA linear regression")](https://colab.research.google.com/drive/1bWt-3z4iuGjLoSlR4RS8U9Ndes5BeY7T) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/158NeOLrQQuhnGypyLmVJY4dnvMazjJZS/view?usp=sharing)
+
+> ### Deep Learning
+
+> ### Data Engineering
