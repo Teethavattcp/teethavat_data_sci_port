@@ -56,8 +56,6 @@ Code: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main
 * Introduction to Data Mining
 * Artificial Intelligence for Engineers
 * Data Science and Data Engineering
-* Engineering Statistics I,II
-* Engineering Experimental Design (DOE)
 
 ## Tasks from enrolled courses:
 > ### Basic Statistics
