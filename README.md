@@ -57,7 +57,7 @@ Code: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main
 * Artificial Intelligence for Engineers
 * Data Science and Data Engineering
 
-## Tasks from enrolled courses:
+## Performed Tasks from enrolled courses:
 > ### Basic Statistics
 * EDA & A/B Testing [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Open .ipynb")](https://colab.research.google.com/drive/18wXoPUpuv9nFoIgz8iLJh6sA950QuIQr#scrollTo=QdcLP_oG3DNE)
 > ### Traditional ML 
@@ -89,6 +89,11 @@ Artificial Neural Network (Multilayer Perceptron, MLP):
 
 K-mean Clustering:
 * Segmenting Facebook Live Sellers in Thailand: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Facebook Live Sellers in Thailand")](https://colab.research.google.com/drive/1hkUrGExeIaJgaBWvDrppN17cwUYGitbQ) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1I-dR1JMGMf_kwxOZb6-xrceqnk-Vro7B/view?usp=sharing)
+
+Dimensionality Reduction:
+* PCA & t-SNE with MNIST dataset: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "MNIST")](https://drive.google.com/file/d/1s39dCBJGsL5ocFUBbdpc0lhr2A40yQQ-/view?usp=sharing) PDF---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1E7cHfCsE0VzTlxBIUy2FCH-tII2k97jN/view?usp=sharing)
+
+
 > ### Deep Learning
 
 > ### Data Engineering
