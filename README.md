@@ -70,7 +70,7 @@ Linear Regression:
 
 Logistic Regression: 
 * Titanic Survivor Classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Titanic Survivor Classification")](https://colab.research.google.com/drive/1h1bDf7HBysBoQSB7CCa-8CY7t9gC72yR#scrollTo=01BWtH7hIfJc) 
-* Age Vs Salary Classification either obove 50k or less 50k through logistic regression classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Age Vs Salary Classification either obove 50k or less 50k through logistic regression classification")](https://colab.research.google.com/drive/1n3M5Wp2PQ4RM22QrudPxJ5afgiXzuO80)
+* Age Vs Salary Classification either obove 50k or less 50k through logistic regression classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Age Vs Salary Classification either obove 50k or less 50k")](https://colab.research.google.com/drive/1n3M5Wp2PQ4RM22QrudPxJ5afgiXzuO80)
 
 Tree-based Algorithm: 
 * Tree-based Model (Decision Tree, Randomforest, CatBOOST): Code ---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Tree-based Model: DT, RF, CatBOOST")](https://colab.research.google.com/drive/19DeXZbOHxNpwBhCQpXPzDCZ2smFrWQ_Q#scrollTo=EkS1kpKNFUet)  Report ---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open performance summary report")](https://drive.google.com/drive/folders/1uLrittAvh9GmRMqkcfWA5uBEAPqGwndZ)
@@ -89,6 +89,8 @@ Generic Algorithm (GA):
 Artificial Neural Network (Multilayer Perceptron, MLP): 
 * House Price Prediction with ANN: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "GA linear regression")](https://colab.research.google.com/drive/1bWt-3z4iuGjLoSlR4RS8U9Ndes5BeY7T) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/158NeOLrQQuhnGypyLmVJY4dnvMazjJZS/view?usp=sharing)
 
+K-mean Clustering:
+* Segmenting Facebook Live Sellers in Thailand: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Facebook Live Sellers in Thailand")](https://colab.research.google.com/drive/1hkUrGExeIaJgaBWvDrppN17cwUYGitbQ) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1I-dR1JMGMf_kwxOZb6-xrceqnk-Vro7B/view?usp=sharing)
 > ### Deep Learning
 
 > ### Data Engineering
