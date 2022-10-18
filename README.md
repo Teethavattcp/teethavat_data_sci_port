@@ -64,7 +64,7 @@ Code: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main
 Linear Regression: 
 * House Price Prediction (Multiple Linear Regression) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "House Price Prediction (Multiple Linear Regression)")](https://colab.research.google.com/drive/1s3SiOHarZ7IFSQk8Y_GXAKgJfyWoooHl) 
 * Wine Quality Prediction [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Wine Quality Prediction")](https://colab.research.google.com/drive/1YiczsOJBonyaK2tpb6ybjhXBMHOWkzTB#scrollTo=mg2ZryWkGsLd)
-* Medical insurance cost prediction: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Medical insurance cost prediction")](https://drive.google.com/file/d/1G3HBqX-PoIpRgbV1AX3SIuBRuQvnsG_o/view?usp=sharing) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1eBL-pa06QKyMHjWB0KYM59qHe431F-Me/view?usp=sharing)
+* Medical insurance cost prediction: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Medical insurance cost prediction")](https://colab.research.google.com/drive/1G3HBqX-PoIpRgbV1AX3SIuBRuQvnsG_o) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1eBL-pa06QKyMHjWB0KYM59qHe431F-Me/view?usp=sharing)
 
 Logistic Regression: 
 * Titanic Survivor Classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Titanic Survivor Classification")](https://colab.research.google.com/drive/1h1bDf7HBysBoQSB7CCa-8CY7t9gC72yR#scrollTo=01BWtH7hIfJc) 
@@ -72,10 +72,10 @@ Logistic Regression:
 
 Tree-based Algorithm: 
 * Tree-based Model (Decision Tree, Randomforest, CatBOOST): Code ---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Tree-based Model: DT, RF, CatBOOST")](https://colab.research.google.com/drive/19DeXZbOHxNpwBhCQpXPzDCZ2smFrWQ_Q#scrollTo=EkS1kpKNFUet)  Report ---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open performance summary report")](https://drive.google.com/drive/folders/1uLrittAvh9GmRMqkcfWA5uBEAPqGwndZ)
-* Job Attrition Classification: Code--> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Job Attrition Classification")](https://drive.google.com/file/d/1q2M7m7Ucu1hLS4azDyh_15LQqfQEAL97/view?usp=sharing)  Report--> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1HLrDeCIuvTaEg5EqWmS6Aan8NB4KHEHd/view?usp=sharing)
+* Job Attrition Classification: Code--> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Job Attrition Classification")](https://colab.research.google.com/drive/1q2M7m7Ucu1hLS4azDyh_15LQqfQEAL97)  Report--> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1HLrDeCIuvTaEg5EqWmS6Aan8NB4KHEHd/view?usp=sharing)
 
 K Nearest Neighborhood:
-* Cancer Class Prediction: Code--> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Cancer Class Prediction")](https://drive.google.com/file/d/1hJhe_oMPlrjWxiM6pxSKMCW_g1Ist7fc/view?usp=sharing)  Report--> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/drive/folders/1a-rRNaV64jV7ZuWbUd5bBeBb0tkzwKKz)
+* Cancer Class Prediction: Code--> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Cancer Class Prediction")](https://colab.research.google.com/drive/1hJhe_oMPlrjWxiM6pxSKMCW_g1Ist7fc)  Report--> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/drive/folders/1a-rRNaV64jV7ZuWbUd5bBeBb0tkzwKKz)
 
 Bayesian Learning:
 * Naive Bayes Text Classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Naive Bayes Text Classification")](https://colab.research.google.com/drive/1j2TXtFzttokVdcvYkYYJPpx54XOcbJ0s#scrollTo=CZZ8olMIJh5P)
@@ -88,20 +88,20 @@ K-mean Clustering:
 * Segmenting Facebook Live Sellers in Thailand: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Facebook Live Sellers in Thailand")](https://colab.research.google.com/drive/1hkUrGExeIaJgaBWvDrppN17cwUYGitbQ) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1I-dR1JMGMf_kwxOZb6-xrceqnk-Vro7B/view?usp=sharing)
 
 > ### Dimensionality Reduction:
-* t-SNE with MNIST dataset: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "MNIST tSNE")](https://drive.google.com/file/d/1s39dCBJGsL5ocFUBbdpc0lhr2A40yQQ-/view?usp=sharing) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1E7cHfCsE0VzTlxBIUy2FCH-tII2k97jN/view?usp=sharing)
+* t-SNE with MNIST dataset: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "MNIST tSNE")](https://colab.research.google.com/drive/1s39dCBJGsL5ocFUBbdpc0lhr2A40yQQ-) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1E7cHfCsE0VzTlxBIUy2FCH-tII2k97jN/view?usp=sharing)
 
 > ### Deep Learning
 Multilayer Perceptron (MLP): 
 * House Price Prediction with ANN: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "GA linear regression")](https://colab.research.google.com/drive/1bWt-3z4iuGjLoSlR4RS8U9Ndes5BeY7T) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/158NeOLrQQuhnGypyLmVJY4dnvMazjJZS/view?usp=sharing)
-* MLP with MNIST Data [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "MNIST MLP")](https://drive.google.com/file/d/1g5wHMRN4UOtyDQI7Ap9qUvyvf9UF1oUv/view?usp=sharing)
+* MLP with MNIST Data [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "MNIST MLP")](https://colab.research.google.com/drive/1m3wQrxSZGWdjmr4rvc_UlCKGH4dbjdKz)
 
 Convolutional Neural Network (CNN):
-* Chest X-Ray Images for Pneumonia classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Chest X-Ray Images for Pneumonia classification")](https://drive.google.com/file/d/1wExHQx8HUVuBgWEejbUMy-8tScC3Xln1/view?usp=sharing)
+* Chest X-Ray Images for Pneumonia classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Chest X-Ray Images for Pneumonia classification")](https://colab.research.google.com/drive/1wExHQx8HUVuBgWEejbUMy-8tScC3Xln1)
 
 Recurrent Neural Network (RNN):
-* Name Translator: Code--->[![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Name Translator")](https://drive.google.com/file/d/1m3wQrxSZGWdjmr4rvc_UlCKGH4dbjdKz/view?usp=sharing) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1CeA3xXC6peJHGvHbfMG4PvI4YLDKvqOG/view?usp=sharing)
+* Name Translator: Code--->[![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Name Translator")](https://colab.research.google.com/drive/1m3wQrxSZGWdjmr4rvc_UlCKGH4dbjdKz) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1CeA3xXC6peJHGvHbfMG4PvI4YLDKvqOG/view?usp=sharing)
 
 > ### Transfer Learning
-* House Price Prediction utlizing XGBoost and Image Classification: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://drive.google.com/file/d/1fqLke9tGwub-z-0Cnn9NeSS4VpaSoMrW/view?usp=sharing) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/14gVuIB4wwDwRMqoNWPmhi9yDpgHd_xR9/view?usp=sharing)
+* House Price Prediction utlizing XGBoost and Image Classification: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1fqLke9tGwub-z-0Cnn9NeSS4VpaSoMrW) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/14gVuIB4wwDwRMqoNWPmhi9yDpgHd_xR9/view?usp=sharing)
 > ### Data Engineering
 
