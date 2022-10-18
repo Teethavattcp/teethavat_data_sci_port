@@ -4,14 +4,18 @@ This is my github profile including of my previous projects and relevant tasks I
 
 ## Highlight of Intern Data Analyst Projects:
 
-### Built dashboard applied visual analytics framework
+> ### Built dashboard applied visual analytics framework 
 
-### Drilled down insights from the interactive dashboard
+* Dashboard:
+* Report:
+* Presentation Slide:
 
-
+> ### Drilled down insights from the interactive dashboard
+* Dashboard:
+* Report:
 ## Relavant Projects:
 
-### PM 2.5 Forecasting with LSTM RNN
+> ### PM 2.5 Forecasting with LSTM RNN
 
 **Step 1:** Extract Data [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zLPFnpIX3Hk1bdTPUKAtQ0Z4AJTXpfpH?usp=sharing)
 
@@ -19,12 +23,11 @@ This is my github profile including of my previous projects and relevant tasks I
 
 **Compared result:**
 
-> with LSTM without exogeneous data (MAPE: 21.882%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zPgGMfIdcmhy2iL0ihxQt6M9dvftewBz?usp=sharing)
+* with LSTM without exogeneous data (MAPE: 21.882%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zPgGMfIdcmhy2iL0ihxQt6M9dvftewBz?usp=sharing)
 
-> with Naive Method (MAPE: 50.043 %) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1M2D-IPBm5CVwQVscWA4b6fid70SRcdw_?usp=sharing)
+* with Naive Method (MAPE: 50.043 %) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1M2D-IPBm5CVwQVscWA4b6fid70SRcdw_?usp=sharing)
 
-
-### Churn Prediction & Retention Strategies for Telecom Business
+> ### Churn Prediction & Retention Strategies for Telecom Business
 
 **Code for main work (Best Model = XGBoost --> clustering --> association rule mining):** [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1qZGmhF9Jft5VHlxWHva9BXMTEdDejth2?usp=sharing)
 * f1-score: 72.657%, accuracy: 80.199% 
