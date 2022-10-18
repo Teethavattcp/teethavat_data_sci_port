@@ -19,11 +19,11 @@ This is my github profile including of my previous projects and relevant tasks I
 
 ### Churn Prediction & Retention Strategies for Telecom Business
 
-**Code for main work (Best Model = XGBoost --> clustering --> association rule mining):** [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1qZGmhF9Jft5VHlxWHva9BXMTEdDejth2?usp=sharing)
+**Code for main work (Best Prediction Model = XGBoost --> clustering --> association rule mining):** [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1qZGmhF9Jft5VHlxWHva9BXMTEdDejth2?usp=sharing)
 * f1-score: 72.657%, accuracy: 80.199% 
 * Project Presentation Slide: [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif)](https://drive.google.com/file/d/18DHvPsWPEvvzjNDww-H5U23UMtdbeiIp/view?usp=sharing)
 
-**Code for other prediction models:**
+**Code for other prediction models (Perform only predictive task):**
 
 | Prediction Model        | F1-score(macro)| Accuracy  | Open Notebook                                                                                             |
 | ----------------------- |:--------------:| :--------:| ---------------------------------------------------------------------------------------------------------:| 
