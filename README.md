@@ -1,6 +1,6 @@
 # Teethavat's portfolio
 
-This is my github profile including of my previous projects and relevant tasks I performed about data science and data analyst
+This is my github profile including of my previous projects and relevant tasks I performed about data science and data analyst.
 
 ## Highlight of Intern Data Analyst Projects:
 
@@ -42,4 +42,12 @@ Code for other prediction models (Perform only predictive task):
 | 3) Random Forest        | 71.396%        | 79.631%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1e81g6jMNympIRsciU6cwAARPy76IbitM?usp=sharing) |
 | 4) K-Nearest Neighbors  | 67.478%        | 77.478%   | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1VUd6g-PQivLkMT8OwecmnyBJRzOui0D4?usp=sharing) |
 
+> ### [Web Design for Interactive Database System](https://github.com/teethavattcp/teethavat_port_data/tree/main/Projects/03_Interactive_Database_Website_System "Go to folder in Github")
+
+Report:
+* Business Profile, System Request, Specification (diagrams) [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open PDF")](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/03_Interactive_Database_Website_System/03_Interactive_db_web_01_Biz_Request_Spec.pdf)
+* Web Function, Web Screen Flow [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open PDF")](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/03_Interactive_Database_Website_System/03_Interactive_db_web_02_Func_ScreenFlow.pdf)
+* Example of web usage [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open PDF")](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/03_Interactive_Database_Website_System/03_Interactive_db_web_03_Example_usage.pdf)
+
+Code: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_openfile.gif "Open File Path in Github")](https://github.com/teethavattcp/teethavat_port_data/tree/main/Projects/03_Interactive_Database_Website_System/Comp%20IT%20Final%20Project%20Code)
 
