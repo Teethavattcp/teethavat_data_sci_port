@@ -17,9 +17,9 @@ This is my github profile including of my previous projects and relevant tasks I
 
 > ### PM 2.5 Forecasting with LSTM RNN
 
-**Step 1:** Extract Data [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zLPFnpIX3Hk1bdTPUKAtQ0Z4AJTXpfpH?usp=sharing)
+**Step 1:** Extracting Data with Selenium [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zLPFnpIX3Hk1bdTPUKAtQ0Z4AJTXpfpH?usp=sharing)
 
-**Step 2:** Build LSTM RNN model with Exogeneous Data (MAPE: 18.884%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1lg2AJyZOjypWqPZS9s2pAIJ6gtUiEstE?usp=sharing)
+**Step 2:** Building LSTM RNN model with Exogeneous Data (MAPE: 18.884%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1lg2AJyZOjypWqPZS9s2pAIJ6gtUiEstE?usp=sharing)
 
 **Compared result:**
 
