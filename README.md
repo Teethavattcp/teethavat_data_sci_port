@@ -61,8 +61,8 @@ Code: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main
 
 ## Tasks from enrolled courses:
 > ### Basic Statistics
-
-> ### Traditional ML
+* EDA & A/B Testing [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Open .ipynb")](https://colab.research.google.com/drive/18wXoPUpuv9nFoIgz8iLJh6sA950QuIQr#scrollTo=QdcLP_oG3DNE)
+> ### Traditional ML 
 Linear Regression: 
 * House Price Prediction (Multiple Linear Regression) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "House Price Prediction (Multiple Linear Regression)")](https://colab.research.google.com/drive/1s3SiOHarZ7IFSQk8Y_GXAKgJfyWoooHl) 
 * Wine Quality Prediction [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Wine Quality Prediction")](https://colab.research.google.com/drive/1YiczsOJBonyaK2tpb6ybjhXBMHOWkzTB#scrollTo=mg2ZryWkGsLd)
