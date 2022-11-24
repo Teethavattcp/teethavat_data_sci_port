@@ -1,5 +1,5 @@
 ## PM 2.5 Forecasting with LSTM RNN
-* Extracted exogeneous data from [https://earth.nullschool.net](https://earth.nullschool.net/) and transformed all data to be ready-to-use for forecasting
+* Extracted exogenous data from [https://earth.nullschool.net](https://earth.nullschool.net/) and transformed all data to be ready to use for forecasting
 * Modified and tuned long short-term memory recurrent neural network, resulting in MAPE at 18.884% 
 [**–3%** of MAPE compared to LSTM RNN without exogenous data, and **–31.16%** to naïve method]
 
