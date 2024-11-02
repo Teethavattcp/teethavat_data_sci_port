@@ -1,20 +1,31 @@
 ## Data Analytics in Complete Retail Customer Journey
 *	**Cleaned extensive datasets** of 2.6M rows in transaction fact tables with dimension tables and **engineered new features** with advanced data analytics.
-![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/Pics/OriginalDataTables.png "Original Tables")
-    - Description Summary about original dataset: [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif)](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/The%20complete%20journey_summary.pdf)
-    - Reference of Datasets : [https://www.dunnhumby.com/source-files/](https://www.dunnhumby.com/source-files/)
+![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/Pics/OriginalDataTables.png "Original datasets")
+    - **Description Summary about original dataset:** [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif)](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/The%20complete%20journey_summary.pdf)
+    - **Reference of Datasets:** [https://www.dunnhumby.com/source-files/](https://www.dunnhumby.com/source-files/)
+    - **Cleaning data & Feature Engineering Tasks:**
 
-| Task                   | Python Notebook name     | Open ipynb notebook                                                                                           |
-| -----------------------| :-----------------------:| ---------------------------------------------------------------------------------------------------------:| 
+| Task                   | Python Notebook name     | Open ipynb notebook                                                                                          |
+| -----------------------| :-----------------------:| :---------------------------------------------------------------------------------------------------------:| 
 | Clean Data and Basic Feature Engineering | 01_Proj_Completejourney_clean&exploredata.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1WBEnLodFKLlCkZVi-iEsab4etxwO-BMM?usp=sharing)|
 | | 01_Join_data_.ipynb |[![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1mK7uG4ZS72SeCvKcIAAUs1_xqfgWfP_z?usp=drive_link)|
 | Price Elasticity of Demand | 02_Price2DemandElasticity_RevisedAspect.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1lzrD8dqGP6ttwRRcS3IhZVDL7z0SJfj8?usp=drive_link)|
 | Market Basket Analysis | 03_MarketBasketAnalysis_20topspendingrule.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)]([https://colab.research.google.com/drive/1gJqk-M4oVnn9L4ISxjzCgWujZcPDjHxV?usp=drive_link])|
 | Transactional Segmentation | 04_RFM_cust_segmentation_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://drive.google.com/file/d/10eIOsvvBiPpnOO9FRv_vmnhgCIq41m-3/view?usp=drive_link)|
 | Customer Movement Feature Engineering | 06_CustomerMovement_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1Yt3dzDi3Tdr-CnXFuRjKOFvC7tzgZqm3?usp=sharing)|
-| Demand Forecasting for Intermittent demand | 05_DemandForecasting_01_Intermittent_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1lu8uoQgqOTbEADiCcgdxou-pfawgfLLg?usp=drive_link)|
-
+| Demand Forecasting for Intermittent demand products | 05_DemandForecasting_01_Intermittent_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1lu8uoQgqOTbEADiCcgdxou-pfawgfLLg?usp=drive_link)|
+| Demand Forecasting for Smooth demand products | 05_DemandForecasting_02_Smooth_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1qoMfsRjtcjwHerZFQEdz4gIqulv8XQsl?usp=drive_link)|
+| Demand Forecasting for Erratic demand products | 05_DemandForecasting_03_Erratic_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1yIzkEdYTOszIfcWSGhO15PSlvzNigJ5B?usp=drive_link)|
+| Demand Forecasting for Lumpy demand products | 05_DemandForecasting_04_Lumpy_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1lu8uoQgqOTbEADiCcgdxou-pfawgfLLg?usp=drive_link)|
+| Revenue Forecasting for Intermittent demand products | 07_RevenueForecasting_01_Intermittent_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1_G5Y6Vu5R-R0l9K60Ks8rfTrTRBEOrlf?usp=drive_link)|
+| Revenue Forecasting for Smooth demand products | 07_RevenueForecasting_02_Smooth_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1k0HgScIb0S-CIrmVafCAEry83EE2xxdZ?usp=drive_link)|
+| Revenue Forecasting for Erratic demand products | 07_RevenueForecasting_03_Erratic_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1ze-22H7IjuGd3E4Lkd3ldkumRLG68EFw?usp=drive_link)|
+| Revenue Forecasting for Lumpy demand products | 07_RevenueForecasting_04_Lumpy_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1ERYaCq8VaxTFMMejBGm4CVaSdubom7xy?usp=drive_link)|
+| Merging Revenue & Demand Forecasting | 05_07_Demand_Revenue_Forecasting_mergedf.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1HnqTSuCa959MJ-DtL2H8lJvTQnc3DId5?usp=sharing)|
 
 *	Designed robust data model schema to support DAX calculation.
-*	Created interactive PowerBI dashboards with storytelling elements to visualize financial and nonfinancial issues related to marketing mix elements.
+      - <span>Data Table Description & Data Dictionary: <a href="https://docs.google.com/spreadsheets/d/190wt5TP_4wxGQaLIXVoDUb_nQ7ByrKxX/edit?usp=sharing&ouid=111972774597888880459&rtpof=true&sd=true"><img src="https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_excel.gif" alt="Open Excel" style="height:20px;"></a></span>
+
+![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/Pics/DataModel_.png "PowerBI Data Model")
+*	Created interactive PowerBI dashboards with storytelling elements to visualize financial and nonfinancial issues.
 *	Delivered actionable recommendations to enhance the effectiveness of marketing campaigns and strategies.
