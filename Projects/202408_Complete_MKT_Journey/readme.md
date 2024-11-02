@@ -1,7 +1,7 @@
 ## Data Analytics in Complete Retail Customer Journey
 *	**Cleaned extensive datasets** of 2.6M rows in transaction fact tables with dimension tables and **engineered new features** with advanced data analytics.
 ![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/Pics/OriginalDataTables.png "Original datasets")
-    - **Description Summary about original dataset:** [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif)](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/The%20complete%20journey_summary.pdf)
+    - **Comprehensive Summary of Original Datasets:** [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif)](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/The%20complete%20journey_summary.pdf)
     - **Reference of Datasets:** [https://www.dunnhumby.com/source-files/](https://www.dunnhumby.com/source-files/)
     - **Cleaning data & Feature Engineering Tasks:**
 
