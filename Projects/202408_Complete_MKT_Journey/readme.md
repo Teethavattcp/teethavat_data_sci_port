@@ -23,9 +23,10 @@
 | Revenue Forecasting for Lumpy demand products | 07_RevenueForecasting_04_Lumpy_.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1ERYaCq8VaxTFMMejBGm4CVaSdubom7xy?usp=drive_link)|
 | Merging Revenue & Demand Forecasting | 05_07_Demand_Revenue_Forecasting_mergedf.ipynb | [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1HnqTSuCa959MJ-DtL2H8lJvTQnc3DId5?usp=sharing)|
 
-*	Designed robust data model schema to support DAX calculation.
+*	**Designed robust data model schema** to support DAX calculation.
       - <span>Data Table Description & Data Dictionary: <a href="https://docs.google.com/spreadsheets/d/190wt5TP_4wxGQaLIXVoDUb_nQ7ByrKxX/edit?usp=sharing&ouid=111972774597888880459&rtpof=true&sd=true"><img src="https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_excel.gif" alt="Open Excel" style="height:20px;"></a></span>
 
 ![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/Pics/DataModel_.png "PowerBI Data Model")
-*	Created interactive PowerBI dashboards with storytelling elements to visualize financial and nonfinancial issues.
-*	Delivered actionable recommendations to enhance the effectiveness of marketing campaigns and strategies.
+*	**Created interactive PowerBI dashboards** with storytelling elements to visualize financial and nonfinancial issues.
+      - <span>Dashboard/Report: <a href=""><img src="https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_powerBIService.gif" alt="View in Power BI Service (Web)" style="height:20px;"></a></span>
+*	Delivered **actionable recommendations** to **enhance the effectiveness of marketing campaigns and strategies**.
