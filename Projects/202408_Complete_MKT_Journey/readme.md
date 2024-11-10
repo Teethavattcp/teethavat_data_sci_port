@@ -28,5 +28,6 @@
 
 ![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/Pics/DataModel_.png "PowerBI Data Model")
 *	**Created interactive PowerBI dashboards** with storytelling elements to visualize financial and nonfinancial issues.
-      - <span>Dashboard/Report: <a href=""><img src="https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_powerBIService.gif" alt="View in Power BI Service (Web)" style="height:20px;"></a></span>
+      - <span>Dashboard/Report: <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiOGZjNWRjMWEtZWQwOS00NTc2LWI1MmEtNzQ3MjY1NWE3ZGY1IiwidCI6IjI3MWQ1ZTdiLTEzNTAtNGI5Ni1hYjg0LTUyZGJkYTRjZjQwYyIsImMiOjEwfQ%3D%3D&pageName=3936180ee4b4e0b306a6"><img src="https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_powerBIService.gif" alt="View in Power BI Service (Web)" style="height:20px;"></a></span>
+      [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif)](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/Complete_journey_Dashboard_publish_static.pdf)
 *	Delivered **actionable recommendations** to **enhance the effectiveness of marketing campaigns and strategies**.
