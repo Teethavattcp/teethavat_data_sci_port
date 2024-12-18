@@ -14,8 +14,19 @@ This is my github profile including of my previous projects and tasks I performe
 * Dashboard: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_img.gif "Open Dashboard")](https://github.com/teethavattcp/teethavat_port_data/blob/main/Intern_Proj_DA/02_COVID_Interactive_Dashboard/Intern_02_Interactive_Dashboard_final.png)
 * Report: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open PDF")](https://github.com/teethavattcp/teethavat_port_data/blob/main/Intern_Proj_DA/02_COVID_Interactive_Dashboard/Intern_02_report_interactive_dashboard.pdf)
 
-## Relavant Projects:
+## Relevant Personal Projects:
 
+> ### [Data Analytics in Complete Retail Customer Journey](https://github.com/teethavattcp/teethavat_port_data/tree/main/Projects/202408_Complete_MKT_Journey "Go to folder in Github")
+
+Step 1: Cleaning datasets and Engineering new features
+* Python notebooks: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_openfile.gif "Open File Path in Github")](https://github.com/teethavattcp/teethavat_port_data/tree/main/Projects/202408_Complete_MKT_Journey/ipynb_notebook)
+      
+Step 2: Designing data model schema and DAX writing for some advanced calculations in PowerBI
+* <span>Data Table Description & Data Dictionary: <a href="https://docs.google.com/spreadsheets/d/190wt5TP_4wxGQaLIXVoDUb_nQ7ByrKxX/edit?usp=sharing&ouid=111972774597888880459&rtpof=true&sd=true"><img src="https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_excel.gif" alt="Open Excel" style="height:20px;"></a></span>
+      
+Step 3: Created and published dashboards to explore insights enhancing the effectiveness of marketing campaigns and strategies
+* <span>Dashboard/Report: <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiOGZjNWRjMWEtZWQwOS00NTc2LWI1MmEtNzQ3MjY1NWE3ZGY1IiwidCI6IjI3MWQ1ZTdiLTEzNTAtNGI5Ni1hYjg0LTUyZGJkYTRjZjQwYyIsImMiOjEwfQ%3D%3D&pageName=3936180ee4b4e0b306a6"><img src="https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_powerBIService.gif" alt="View in Power BI Service (Web)" style="height:20px;"></a></span>
+      [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif)](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202408_Complete_MKT_Journey/Complete_journey_Dashboard_publish_static.pdf)
 > ### [PM 2.5 Forecasting with LSTM RNN](https://github.com/teethavattcp/teethavat_port_data/tree/main/Projects/01_PM_2.5_Forecasting_with_LSTM_RNN "Go to folder in Github")
 
 Step 1: Extracting Data from [https://earth.nullschool.net](https://earth.nullschool.net/) with Selenium [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zLPFnpIX3Hk1bdTPUKAtQ0Z4AJTXpfpH?usp=sharing)
@@ -24,7 +35,7 @@ Step 2: Building LSTM RNN model with Exogeneous Data (MAPE: 18.884%) [![Open In 
 
 Compared result:
 
-* with LSTM without exogeneous data (MAPE: 21.882%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zPgGMfIdcmhy2iL0ihxQt6M9dvftewBz?usp=sharing)
+* with LSTM without exogenous data (MAPE: 21.882%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zPgGMfIdcmhy2iL0ihxQt6M9dvftewBz?usp=sharing)
 
 * with Naive Method (MAPE: 50.043 %) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1M2D-IPBm5CVwQVscWA4b6fid70SRcdw_?usp=sharing)
 
@@ -56,6 +67,8 @@ Code: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main
 * Introduction to Data Mining
 * Artificial Intelligence for Engineers
 * Data Science and Data Engineering
+* Engineering Statistics I,II
+* Engineering Experimental Design (DOE)
 
 ## Performed Tasks from enrolled courses:
 > ### Basic Statistics
