@@ -64,11 +64,13 @@ Report:
 Code: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_openfile.gif "Open File Path in Github")](https://github.com/teethavattcp/teethavat_port_data/tree/main/Projects/03_Interactive_Database_Website_System/Comp%20IT%20Final%20Project%20Code)
 
 ## Enrolled courses:
-* Introduction to Data Mining
-* Artificial Intelligence for Engineers
-* Data Science and Data Engineering
-* Engineering Statistics I,II
-* Engineering Experimental Design (DOE)
+* Introduction to Data Mining [2110428, Comp. Eng' Chula]
+* Artificial Intelligence for Engineers [2110574, Comp. Eng' Chula]
+* Data Science and Data Engineering [2110574, Comp. Eng' Chula]
+* Engineering Statistics I,II [2104253 & 2104254, Industrial Eng' Chula]
+* Engineering Experimental Design (DOE) [2104357, Industrial Eng' Chula]
+* Data Pipeline with Airflow [Skoodio]
+* Git Essentials for Developers [Skoodio]
 
 ## Performed Tasks from enrolled courses:
 > ### Basic Statistics
