@@ -1,6 +1,6 @@
 # Teethavat's portfolio
 
-This is my github profile including of my previous projects and tasks I performed of which skills relevant to data science and data analyst. Computer languages I used in coding include Python, SQL, PHP, HTML and CSS. 
+This is my GitHub profile including my previous projects and tasks I performed which are skills relevant to data science and data analysis. Computer languages I used in coding include Python, SQL, PHP, HTML, and CSS. 
 
 ## Highlight of Intern Data Analyst Projects:
 
@@ -31,7 +31,7 @@ Step 3: Created and published dashboards to explore insights enhancing the effec
 
 Step 1: Extracting Data from [https://earth.nullschool.net](https://earth.nullschool.net/) with Selenium [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1zLPFnpIX3Hk1bdTPUKAtQ0Z4AJTXpfpH?usp=sharing)
 
-Step 2: Building LSTM RNN model with Exogeneous Data (MAPE: 18.884%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1lg2AJyZOjypWqPZS9s2pAIJ6gtUiEstE?usp=sharing)
+Step 2: Building LSTM RNN model with Exogenous Data (MAPE: 18.884%) [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1lg2AJyZOjypWqPZS9s2pAIJ6gtUiEstE?usp=sharing)
 
 Compared result:
 
@@ -64,9 +64,9 @@ Report:
 Code: [![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_openfile.gif "Open File Path in Github")](https://github.com/teethavattcp/teethavat_port_data/tree/main/Projects/03_Interactive_Database_Website_System/Comp%20IT%20Final%20Project%20Code)
 
 ## Enrolled courses:
-* Introduction to Data Mining [2110428, Comp. Eng' Chula]
-* Artificial Intelligence for Engineers [2110574, Comp. Eng' Chula]
-* Data Science and Data Engineering [2110574, Comp. Eng' Chula]
+* Introduction to Data Mining [2110428, Computer Eng' Chula]
+* Artificial Intelligence for Engineers [2110574, Computer Eng' Chula]
+* Data Science and Data Engineering [2110446, Computer Eng' Chula]
 * Engineering Statistics I,II [2104253 & 2104254, Industrial Eng' Chula]
 * Engineering Experimental Design (DOE) [2104357, Industrial Eng' Chula]
 * Data Pipeline with Airflow [Skoodio]
