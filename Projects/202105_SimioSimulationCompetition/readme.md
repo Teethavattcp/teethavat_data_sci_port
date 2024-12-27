@@ -9,8 +9,8 @@
 **PDF Presentation Slides:** [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif)](https://drive.google.com/file/d/1v3cLIyVKjSKIOjJJ75R-OPPTQttsqdnR/view?usp=drive_link)
 
 **Award Announcement:** [https://www.simio.com/academics/student-competition/May2021/index.php]
-![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202105_SimioSimulationCompetition/web1.jpg)
-![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202105_SimioSimulationCompetition/web2.jpg)
+![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202105_SimioSimulationCompetition/img/web1.jpg)
+![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202105_SimioSimulationCompetition/img/web2.jpg)
 
 **Certificate:**
-![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202105_SimioSimulationCompetition/web2.jpg)
+![alt text](https://github.com/teethavattcp/teethavat_port_data/blob/main/Projects/202105_SimioSimulationCompetition/img/web2.jpg)
