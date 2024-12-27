@@ -4,9 +4,9 @@
 * Utilized Analytical Hierarchical Process (AHP) to **rate KPI importance** and **select the optimal solution** based on weighted scores.
 * Achieved significant **improvements** in KPIs: reduced unmet demand by 59.32%, cut stockouts by 28.57%, and boosted throughput by 23.68%.
 
-**Task Description**: [https://www.simio.com/academic-case-studies/simio-shelving-shop-spring-2021/]
+**Task Description**: https://www.simio.com/academic-case-studies/simio-shelving-shop-spring-2021/
 
-**Presentation VDO:** [https://youtu.be/YdB_rSy4AxM]
+**Presentation VDO:** https://youtu.be/YdB_rSy4AxM
 
 **PDF Presentation Slides:** [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif)](https://drive.google.com/file/d/1v3cLIyVKjSKIOjJJ75R-OPPTQttsqdnR/view?usp=drive_link)
 
