@@ -111,13 +111,15 @@ Multilayer Perceptron (MLP):
 * MLP with MNIST Data [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "MNIST MLP")](https://colab.research.google.com/drive/1m3wQrxSZGWdjmr4rvc_UlCKGH4dbjdKz)
 
 Convolutional Neural Network (CNN):
-* Chest X-Ray Images for Pneumonia classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Chest X-Ray Images for Pneumonia classification")](https://colab.research.google.com/drive/1wExHQx8HUVuBgWEejbUMy-8tScC3Xln1)
+* Chest X-ray images for Pneumonia classification [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Chest X-Ray Images for Pneumonia classification")](https://colab.research.google.com/drive/1wExHQx8HUVuBgWEejbUMy-8tScC3Xln1)
 
 Recurrent Neural Network (RNN):
 * Name Translator: Code--->[![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg "Name Translator")](https://colab.research.google.com/drive/1m3wQrxSZGWdjmr4rvc_UlCKGH4dbjdKz) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1CeA3xXC6peJHGvHbfMG4PvI4YLDKvqOG/view?usp=sharing)
 
 > ### Transfer Learning
-* House Price Prediction utlizing XGBoost and Image Classification: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1fqLke9tGwub-z-0Cnn9NeSS4VpaSoMrW) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/14gVuIB4wwDwRMqoNWPmhi9yDpgHd_xR9/view?usp=sharing)
+* House Price Prediction utilizing XGBoost and Image Classification: Code---> [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1fqLke9tGwub-z-0Cnn9NeSS4VpaSoMrW) Report---> [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/14gVuIB4wwDwRMqoNWPmhi9yDpgHd_xR9/view?usp=sharing)
 > ### Data Engineering
 * Scraping Buddhist Holy Day with BeautifulSoup: [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/19RCxI0TU__JJcFQNlBB2tv03_6zOo6eX?authuser=2#scrollTo=N7tfQWTVC3HI) 
 * Exploring Data using SparkSQL: [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/148KVMvM6tcHV5F0BN-KyYywNVtQfPk3z?authuser=2#scrollTo=8u0T8qfBmg84)
+* Integrating FastAPI with Airflow: [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1cg5OJdaxl4RMiw6src8nu7l7uL8Cm2ri/view?usp=drive_link)
+* End-to-end Airflow data pipeline for Cryptocurrency Market Data with Email notification: [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1RI6E3cR62oVNGFHthT-JVAwBDxKxZzlq/view?usp=drive_link)
