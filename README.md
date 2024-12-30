@@ -1,6 +1,6 @@
 # Teethavat's portfolio
 
-This is my GitHub profile including my previous projects and tasks I performed which are skills relevant to data science and data analysis. Computer languages I used in coding include Python, SQL, PHP, HTML, and CSS. 
+This is my GitHub profile including my previous projects and tasks I performed which are skills relevant to data science. Computer languages I used in coding include Python, SQL, PHP, HTML, and CSS. 
 
 ## Highlight of Intern Data Analyst Projects:
 
