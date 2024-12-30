@@ -121,5 +121,5 @@ Recurrent Neural Network (RNN):
 > ### Data Engineering
 * Scraping Buddhist Holy Day with BeautifulSoup: [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/19RCxI0TU__JJcFQNlBB2tv03_6zOo6eX?authuser=2#scrollTo=N7tfQWTVC3HI) 
 * Exploring Data using SparkSQL: [![Open In Colab](https://github.com/Teethavattcp/teethavat_port_data/blob/main/img/colab-badge.svg)](https://colab.research.google.com/drive/148KVMvM6tcHV5F0BN-KyYywNVtQfPk3z?authuser=2#scrollTo=8u0T8qfBmg84)
-* Integrating FastAPI with Airflow: [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1cg5OJdaxl4RMiw6src8nu7l7uL8Cm2ri/view?usp=drive_link)
+* Integrating FastAPI with Airflow for REST API Deployment and Validation: [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1cg5OJdaxl4RMiw6src8nu7l7uL8Cm2ri/view?usp=drive_link)
 * End-to-end Airflow data pipeline for Cryptocurrency Market Data with Email notification: [![Open PDF](https://github.com/teethavattcp/teethavat_port_data/blob/main/img/badge_pdf.gif "Open report")](https://drive.google.com/file/d/1RI6E3cR62oVNGFHthT-JVAwBDxKxZzlq/view?usp=drive_link)
